@@ -1,0 +1,13 @@
+C:\Users\ivanh\source\repos\Personalregister\Personalregister\bin\Debug\netcoreapp3.1\Personalregister.exe
+C:\Users\ivanh\source\repos\Personalregister\Personalregister\bin\Debug\netcoreapp3.1\Personalregister.deps.json
+C:\Users\ivanh\source\repos\Personalregister\Personalregister\bin\Debug\netcoreapp3.1\Personalregister.runtimeconfig.json
+C:\Users\ivanh\source\repos\Personalregister\Personalregister\bin\Debug\netcoreapp3.1\Personalregister.runtimeconfig.dev.json
+C:\Users\ivanh\source\repos\Personalregister\Personalregister\bin\Debug\netcoreapp3.1\Personalregister.dll
+C:\Users\ivanh\source\repos\Personalregister\Personalregister\bin\Debug\netcoreapp3.1\Personalregister.pdb
+C:\Users\ivanh\source\repos\Personalregister\Personalregister\obj\Debug\netcoreapp3.1\Personalregister.csprojAssemblyReference.cache
+C:\Users\ivanh\source\repos\Personalregister\Personalregister\obj\Debug\netcoreapp3.1\Personalregister.AssemblyInfoInputs.cache
+C:\Users\ivanh\source\repos\Personalregister\Personalregister\obj\Debug\netcoreapp3.1\Personalregister.AssemblyInfo.cs
+C:\Users\ivanh\source\repos\Personalregister\Personalregister\obj\Debug\netcoreapp3.1\Personalregister.csproj.CoreCompileInputs.cache
+C:\Users\ivanh\source\repos\Personalregister\Personalregister\obj\Debug\netcoreapp3.1\Personalregister.dll
+C:\Users\ivanh\source\repos\Personalregister\Personalregister\obj\Debug\netcoreapp3.1\Personalregister.pdb
+C:\Users\ivanh\source\repos\Personalregister\Personalregister\obj\Debug\netcoreapp3.1\Personalregister.genruntimeconfig.cache
